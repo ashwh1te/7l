@@ -1,0 +1,13 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+body {
+    background: #6e4e30;
+}
+
+.slider img {
+    height: 300px;
+    weight:300px;
+}
